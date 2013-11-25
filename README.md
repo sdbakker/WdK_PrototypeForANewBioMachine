@@ -10,7 +10,7 @@ This repository contains the simplified and stripped version of [Prototype for a
   Contains the hardware schematics and material list
 
 ### JuremaController
-* JuremaController.ino
+* __JuremaController.ino__
   The controller source code
 * twi.c 
   I2C library source code
